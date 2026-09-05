@@ -1,4 +1,4 @@
-# nanograd
+# nanograd-ts
 
 A tiny neural network and autograd engine, built completely from scratch in TypeScript — no ML libraries, no black boxes, CPU-only. Every gradient, every weight update, every matrix multiply is hand-written and verified against numerical differentiation.
 
