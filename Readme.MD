@@ -57,4 +57,4 @@ Built as a learning exercise to understand backpropagation and automatic differe
 
 ## License
 
-MIT — do whatever you'd like with this.
+MIT — do whatever you'd like with this. YOLO~
