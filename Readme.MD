@@ -53,7 +53,7 @@ Scale that same idea up to matrices, stack a couple of layers with a ReLU in bet
 
 ## Background
 
-Built as a learning exercise to understand backpropagation and automatic differentiation from first principles, rather than treating deep learning frameworks as black boxes. See `neural-network-from-scratch.md` for the full walkthrough, including the mistakes made along the way (dying ReLU, gradient mismatches, co-adapting parameters) and what they revealed.
+Built as a learning exercise to understand backpropagation and automatic differentiation from first principles, rather than treating deep learning frameworks as black boxes. See `notes.md` for the full walkthrough, including the mistakes made along the way (dying ReLU, gradient mismatches, co-adapting parameters) and what they revealed.
 
 ## License
 
